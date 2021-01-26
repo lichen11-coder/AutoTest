@@ -2,3 +2,6 @@
 这个是需要合并的内容
 lichen1
 lichen2
+qi1
+qi2
+
